@@ -1,11 +1,10 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Acerca de mi
+permalink: /acerca-de/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Me llamo Dani Latorre y soy desarrollador independiente. Aunque habitualmente escriba [en mi blog de siempre](http://www.danilat.com/weblog), este espacio está destinado a mostrar y compartir pequeñas soluciones para problemas muy concretos en los diferentes lenguajes de programación con los que trabajo.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+El blog está basado en [Jekill](http://jekyllrb.com/) y, como no podía ser de otro modo, hospedado en [github](https://github.com/danilat/danilat.github.com).
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
