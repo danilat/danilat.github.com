@@ -1,13 +1,39 @@
 # Site settings
-title: danilat code
-email: dani@danilat.com
-description: > # this means to ignore newlines until "baseurl:"
-  Está enfocado a mostrar pequeños tips o soluciones a problemas muy concretos sobre programación.
+title:       code danilat
+email:       dani@danilat.com
+author:      Dani Latorre
+description: "Mi blog de código"
+baseurl:     ""
+url:         "http://code.danilat.com"
 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://code.danilat.com" # the base hostname & protocol for your site
-twitter_username: dani_latorre
-github_username:  danilat
+# Google analytics
+google_analytics:
+
+# Optional features
+animated:           false
+show_related_posts: false
+show_post_footers:  false
+
+# Disqus post comments
+# (leave blank to disable Disqus)
+disqus_shortname:
+
+# Social icons
+show_social_icons: true
+github_username: 
+stackoverflow_id:
+twitter_username: 
+google_plus_id:
+linkedin_username: 
+bitcoin_url:
+paypal_url:
+flattr_button:
 
 # Build settings
-markdown: kramdown
+markdown:     redcarpet
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
+permalink:    pretty
+paginate:     3
+sass:
+  compressed: true
