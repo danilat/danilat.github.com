@@ -7,7 +7,7 @@ baseurl:     ""
 url:         "http://code.danilat.com"
 
 # Google analytics
-google_analytics:
+google_analytics: UA-918753-12
 
 # Optional features
 animated:           false
